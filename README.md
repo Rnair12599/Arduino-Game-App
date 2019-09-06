@@ -7,5 +7,5 @@ Created a handheld gaming device using an Arduino processor that employs LED Boa
 
 
 
-Cutie Hack Project 2017 . By: Rahul Nair and Suhas Jagannath . November 11, 2017
+Cutie Hack Project 2017 ; By: Rahul Nair and Suhas Jagannath ; November 11, 2017
 
