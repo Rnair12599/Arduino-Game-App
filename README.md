@@ -3,7 +3,7 @@ Created a handheld gaming device using an Arduino processor that employs LED Boa
 
 
 
- This repository only contains the code and demo trial video for the project.To see the formalized project page, click [here](https://devpost.com/software/arduinolcdgame#updates)
+ This repository only contains the code and demo trial video for the project.  To see the formalized project page, click [here](https://devpost.com/software/arduinolcdgame#updates)
 
 
 
